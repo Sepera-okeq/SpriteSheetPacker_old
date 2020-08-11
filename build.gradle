@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'org.sasha0552'
+version '1.0-SNAPSHOT'
+
+jar {
+    manifest {
+        attributes('Main-Class': 'matb.ebal.tvoy')
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
