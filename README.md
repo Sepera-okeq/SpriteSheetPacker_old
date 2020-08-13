@@ -11,9 +11,10 @@ Program for stitching .png pictures!
  where - NNN - numbers, and namefile - any file name
 2. Upload the .jar file
 3. Start the terminal (cmd.exe or powershell.exe or terminal (only linux) and write
-shell
+```shell
 java -jar imgst.jar
-``,
+```
+
 4. Expect ......
 5. The st_img.png file is created
 6. Enjoy life!
