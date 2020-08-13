@@ -4,6 +4,8 @@ Program for stitching .png pictures!
 
 #### Example of work: [archive](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/test.rar)
 #### Download : [last](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/ImgSt.jar)
+#### Instruction on [YouTube](https://youtu.be/mWUtNO3d5pA)
+
 ### How to use?
 1. Form a folder with files by the type: namefile_NNN.png
  where - NNN - numbers, and namefile - any file name
@@ -30,6 +32,7 @@ ___
 
 #### Пример работы: [archive](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/test.rar)
 #### Скачать : [last](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/ImgSt.jar)
+#### Инструкция на [Ютубе](https://youtu.be/mWUtNO3d5pA)
 
 ### Как пользоваться?
 1. Формируете папку с файлами по типу: namefile_NNN.png
