@@ -1,4 +1,4 @@
-package matb.ebal;
+package org.sasha0552;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
@@ -11,7 +11,7 @@ import java.util.Objects;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-public class tvoy {
+public class ImgSt {
     private static int avg(List<Integer> list) {
         Integer sum = 0;
 

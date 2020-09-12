@@ -7,7 +7,7 @@ version '1.0-SNAPSHOT'
 
 jar {
     manifest {
-        attributes('Main-Class': 'matb.ebal.tvoy')
+        attributes('Main-Class': 'org.sasha0552.ImgSt')
     }
 }
 
